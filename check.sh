@@ -2990,40 +2990,6 @@ function CheckV6() {
 
 function Goodbye(){
 
-	if [[ "$language" == "e" ]];then
-		echo -e "${Font_Green}Testing Done! Thanks for Using This Script! ${Font_Suffix}";
-		echo -e ""
-		echo -e "${Font_Yellow}Number of Script Runs for Today：${TodayRunTimes}; Total Number of Script Runs: ${TotalRunTimes} ${Font_Suffix}"
-		echo -e ""
-		echo -e "========================================================="
-		echo -e "${Font_Red}If you found this script helpful, you can but me a coffee${Font_Suffix}"
-		echo -e ""
-		echo -e "LTC：LQD4S6Y5bu3bHX6hx8ASsGHVfaqFGFNTbx"
-		echo -e "========================================================="
-	else	
-		echo -e "${Font_Green}本次测试已结束，感谢使用此脚本 ${Font_Suffix}";
-		echo -e ""
-		echo -e "${Font_Yellow}检测脚本当天运行次数：${TodayRunTimes}; 共计运行次数：${TotalRunTimes} ${Font_Suffix}"
-		echo -e ""
-		echo -e "${Font_SkyBlue}【荐鸡时刻】${Font_Suffix}"
-		echo -e "================================================"
-		echo -e "${Font_Yellow}DMIT TYO Lite系列 三网回程cmi 端口带宽1Gbps以及上${Font_Suffix}"
-		echo -e "${Font_SkyBlue}Lite系列优惠码(Tiny除外): ${Font_Suffix}"
-		echo -e "${Font_Green}年付七折【Lite-Annually-Recur-30OFF】 ${Font_Suffix}"
-		echo -e "${Font_Green}半年付八折【Lite-Semi-Annually-Recur-20OFF】 ${Font_Suffix}"
-		echo -e "${Font_Red}传送门：${Font_Suffix}https://www.dmit.io/aff.php?aff=3198"
-		echo -e "================================================"
-		echo -e ""
-		echo -e ""
-		echo -e ""
-		echo -e ""
-		echo -e "${Font_Red}**************************${Font_Suffix}"
-		echo -e "${Font_Red}*                        *${Font_Suffix}"
-		echo -e "${Font_Red}*${Font_Suffix} 新春广告招租           ${Font_Red}*${Font_Suffix}"
-		echo -e "${Font_Red}*${Font_Suffix} 请联系：@reidschat_bot ${Font_Red}*${Font_Suffix}"
-		echo -e "${Font_Red}*                        *${Font_Suffix}"
-		echo -e "${Font_Red}**************************${Font_Suffix}"
-		
 		
 	fi	
 }
